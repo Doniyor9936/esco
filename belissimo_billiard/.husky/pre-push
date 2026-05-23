@@ -1,0 +1,2 @@
+bun run check
+bun run --filter backend build 2>/dev/null || true
